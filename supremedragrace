@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Supreme Drag Race</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Supreme Drag Race Simulator</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Contestants</a></li>
+            <li><a href="#">Challenges</a></li>
+            <li><a href="#">Runway</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Welcome to the World of Drag!</h2>
+        <p>Choose your contestant and start your journey to become the next drag superstar.</p>
+        <a href="contestant-selection.html">Start Your Journey</a>
+    </main>
+    <footer>
+        <p>&copy; 2023 Supreme Drag Race</p>
+    </footer>
+</body>
+</html>
